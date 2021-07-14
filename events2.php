@@ -22,6 +22,12 @@
   </head>
 
   <style>
+/* .hero-wrap {
+  background-image: url('images/hero.jpeg'); 
+  height:60vh;
+} */
+
+
     .hero-wrap::before {
     content: "";
     position: absolute;
@@ -32,16 +38,18 @@
     background: rgba(0, 0, 0, 0.5);
   }
 
-  @media (min-width:320px) and (max-device-width : 800px)  {
+  @media (min-width:280px) and (max-device-width : 800px)  {
   
   /* smartphones, iPhone, portrait 480x320 phones */
+ 
+
   .hero-wrap::before {
     content: "";
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 40vh;
+    height: 55%;
     background: rgba(0, 0, 0, 0.5);
   }
 
@@ -49,10 +57,26 @@
   body {
     width: 100%;
   }
- 
+
+  .heading-section {
+    margin-bottom: 25px;
+  }
 
    }
 
+
+   @media (min-width:280px) and (max-device-width : 653px)  {
+  
+  /* smartphones, iPhone, portrait 280x320 phones */
+ .card-title {
+   font-size: 16px;
+ }
+
+  h2, h3 {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+ }
+   }
  
 
  

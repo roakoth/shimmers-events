@@ -1,8 +1,8 @@
 <html>
 <body>
-<!-- style="background-image: url('images/hero.jpeg'); height: 40vh;" -->
+<!-- style="background-image: url('images/hero.jpeg'); height:40vh;" -->
 
-<div class="hero-wrap" style="background-image: url('images/hero.jpeg'); height:40vh;">
+<div class="hero-wrap"  style="background-image: url('images/hero.jpeg'); height:40vh;">
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
@@ -17,7 +17,7 @@
     </div>
 
 
-    <section class="bg-light" id="events" style="padding: 4rem; margin-top: 2rem;">
+    <section class="bg-light" class="events" id="events" style="padding: 4rem; margin-top: 2rem;">
     	<div class="container" id="0">
     		<div class="row mb-5 pb-3">
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 heading-section ftco-animate" style="margin-bottom:2rem;">
