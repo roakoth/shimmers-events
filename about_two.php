@@ -32,12 +32,49 @@
     background: rgba(0, 0, 0, 0.5);
   }
 
+  .navbar a:hover {
+  border-bottom:  #FF0000 2px solid;
+  }
+
  img {
     height: 60vh;
     width: 40vw;
     border-radius: 50%;
   }
+@media (max-width: 768px){
 
+  .hero-wrap::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50vh;
+    background: rgba(0, 0, 0, 0.5);
+  }
+
+h1 {
+  font-size: 40px !important;
+}
+  img {
+    height: 40vh;
+    width: 50vw;
+    
+  }
+}
+
+@media (max-width: 268px){
+  .hero-wrap::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 70vh;
+    background: rgba(0, 0, 0, 0.5);
+  }
+
+}
 
   </style>
 

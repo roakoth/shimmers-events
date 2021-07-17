@@ -121,7 +121,7 @@
               </ul>
             </div>
           </div>
-          <div class="col-md">
+          <div class="col-md col-sm-12">
             <div class="ftco-footer-widget mb-4">
             	<h2 class="ftco-heading-2">Have Questions?</h2>
             	<div class="block-23 mb-3">

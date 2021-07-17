@@ -27,6 +27,10 @@
     background: rgba(0, 0, 0, 0.5);
   }
 
+  .navbar a:hover {
+  border-bottom:  #FF0000 2px solid;
+  }
+
   img {
       height: 300px;
       width: 300px;

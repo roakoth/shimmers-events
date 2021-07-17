@@ -22,7 +22,7 @@
     <section class="bg-light" id="events" style="padding: 4rem; margin-top: 2rem;">
     	<div class="container" id="0">
     		<div class="row mb-5 pb-3">
-            <div class="col-md-6 heading-section ftco-animate">
+            <div class="col-md-6 col-sm-12 heading-section ftco-animate">
             <!-- <span class="quote d-flex align-items-center justify-content-center">
                 <i class="icon-quote-left"></i>
 		        </span> -->
@@ -51,7 +51,7 @@
                </ul> -->
             </div>
 
-            <div id="pic" class="col-md-6 heading-section ftco-animate"> 
+            <div id="pic" class="col-md-6 col-sm-12 heading-section ftco-animate"> 
             <img src="images/nice_arrangement.jpeg"> 
             
             </div>

@@ -37,19 +37,23 @@
     margin-right: 8px;
   }
 
-@media (min-width:280px)  {
+  .navbar a:hover {
+  border-bottom:  #FF0000 2px solid;
+  }
+  /* #28a745 */
+
+@media (max-width: 768px)  {
   
    /* smartphones, iPhone, portrait 480x320 phones */
    .quote {
      margin-right: 20px;
    }
 
-   .user-img{
+   
+    .user-img{
     margin-right: 20px;
    }
-  
-
-    }
+   }
    
     .choice {
       margin-bottom: 4rem;
