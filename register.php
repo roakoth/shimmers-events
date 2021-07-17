@@ -18,6 +18,11 @@ include "cssjs/css.php";
     border-radius:20px;
     
   }
+
+  .navbar a:hover {
+  border-bottom:  #FF0000 2px solid;
+  }
+  
   .hero-wrap::before {
     content: "";
     position: absolute;
