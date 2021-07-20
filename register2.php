@@ -21,22 +21,6 @@
     <title>Shimmers Event</title>
   </head>
 
-  <style>
-    .hero-wrap::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 40vh;
-    background: rgba(0, 0, 0, 0.5);
-  }
-
-
-
-
-
-  </style>
 <?php 
 
 include "cssjs/css.php";

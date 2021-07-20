@@ -34,7 +34,7 @@ include "cssjs/css.php";
   }
 
   img {
-    width: 500px;
+    width: 400px;
     height: 500px;
   }
 
@@ -57,6 +57,47 @@ include "cssjs/css.php";
 
 .btn:hover {
   opacity: 0.9;
+}
+
+@media (max-width: 768px){
+
+.hero-wrap::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50vh;
+  background: rgba(0, 0, 0, 0.5);
+}
+img {
+  height: 500px;
+  width: 310px;
+}
+
+.form {
+  width: 400px;
+  /* margin-left:10px; */
+}
+
+}
+
+@media (max-width: 280px){
+.hero-wrap::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 55vh;
+  background: rgba(0, 0, 0, 0.5);
+}
+img {
+  height: 500px;
+  width: 280px;
+}
+
+
 }
 
 
@@ -85,14 +126,14 @@ include "cssjs/css.php";
        </div> 
         <div class="row block-9">
 
-        <div class="col-md-6 col-sm-12">
+        <div class="col-md-6 col-sm-12 event">
               <h3> Do you need to plan an event?</h3>
               <p> We look forward to hearing from you</p>
                <img src="images/begin_chat.svg"> 
           </div>
 
 
-          <div class="col-md-6 pr-md-5 col-sm-12">
+          <div class="col-md-6 pr-md-5 col-sm-12 form">
             <!-- <form id="signup_form" class="was-validated" action="https://formsubmit.co/roseakoth2015@gmail.com" method="POST">
               <div class="form-group" >
                 <input type="text" name="full_name" class="form-control field-border" placeholder="Your Name"  required>
