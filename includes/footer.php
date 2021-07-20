@@ -80,6 +80,18 @@
   margin-right: 7px;
 }
 
+@media (max-width: 280px){
+
+  footer {
+    width: 100vw;
+  }
+span.text {
+  font-size: 14px;
+}
+
+
+}
+
 </style>
 
 
