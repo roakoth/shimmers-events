@@ -17,6 +17,14 @@
   </head>
 
   <style>
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}  
+
+
     .hero-wrap::before {
     content: "";
     position: absolute;
@@ -46,6 +54,57 @@
   .gallery-section {
       margin-bottom: 20px;
   }
+
+
+  @media (max-width: 768px){
+
+.hero-wrap::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50vh;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+img {
+  height: 300px !important;
+  width: 250px !important;
+}
+
+
+}
+
+@media (max-width: 320px){
+  .hero-wrap::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 52vh;
+  background: rgba(0, 0, 0, 0.5);
+} 
+
+img {
+  height: 300px;
+  width: 200px !important;
+}
+
+
+}
+
+@media (max-width: 1024px){
+ 
+  img {
+  height: 300px;
+  width: 250px;
+}
+
+}
+
+
 
 
   </style>
