@@ -159,11 +159,11 @@ span.text {
       </div>
     </footer>
     
-    <button href="#" class="float ftco-animate" onclick="openForm()">
+    <!-- <button href="#" class="float ftco-animate" onclick="openForm()">
     <span class="icon-chat"></span>
-  </button>
+  </button> -->
     
-    <div class="chat-popup" id="myForm" style="border-radius:30px;">
+    <!-- <div class="chat-popup" id="myForm" style="border-radius:30px;">
   <form action="/action_page.php" class="form-container" style="border-radius:30px;">
     <h1>Chat</h1>
 
@@ -173,10 +173,10 @@ span.text {
       <div class="btn-group">
         <button type="submit" class="btn btn-success btn-lg">Send</button>
         <button type="button" class="btn btn-danger btn-lg" onclick="closeForm()">Close</button>
-        <!-- <i class="icon-heart" aria-hidden="true"></i> by -->
-    </div>
+         <i class="icon-heart" aria-hidden="true"></i> by -->
+    <!-- </div>
   </div>
 </form>
-</div>
+</div> --> 
 
     
