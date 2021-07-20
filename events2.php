@@ -49,6 +49,9 @@
   background: rgba(0, 0, 0, 0.5);
 }
 
+h1 {
+  font-size: 40px !important;
+}
 
 .card-title {
   font-size: 18px;
@@ -69,6 +72,10 @@ h2 {
   width: 100%;
   height: 55vh;
   background: rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+  font-size: 40px !important;
 }
 
 

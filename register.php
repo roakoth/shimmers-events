@@ -75,6 +75,10 @@ img {
   width: 310px;
 }
 
+h1 {
+  font-size: 40px !important;
+}
+
 .form {
   width: 400px;
   /* margin-left:10px; */
@@ -92,6 +96,11 @@ img {
   height: 55vh;
   background: rgba(0, 0, 0, 0.5);
 }
+
+h1 {
+  font-size: 40px !important;
+}
+
 img {
   height: 500px;
   width: 280px;

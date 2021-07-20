@@ -68,6 +68,11 @@
   background: rgba(0, 0, 0, 0.5);
 }
 
+h1 {
+  font-size: 40px !important;
+}
+
+
 img {
   height: 300px !important;
   width: 250px !important;
@@ -91,6 +96,8 @@ img {
   height: 300px;
   width: 200px !important;
 }
+
+
 
 
 }
