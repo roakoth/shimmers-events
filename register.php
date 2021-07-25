@@ -183,7 +183,7 @@ img {
             
             <!-- value="Register" -->
 
-            <form action="https://formsubmit.co/16396f546b04031f3a1d0138efda2a79" method="POST">
+            <form action="https://formsubmit.co/shimmerseventsorg@gmail.com" method="POST">
                 <input type="text" name="name" class="form-control field-border" placeholder="Name" style="margin-bottom: 20px;"  required>
                 <input type="email" name="email" class="form-control field-border" placeholder="Email" style="margin-bottom: 20px;" required>
                 <input type="text"  name="mobile" placeholder="mobile" class="form-control field-border" style="margin-bottom: 20px;" required>
