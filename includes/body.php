@@ -160,7 +160,7 @@
 
 			<div class="col-md-4 ftco-animate">
                 <h2> Wedding Events</h2>
-             <p> Wedding decorations are mostly theme-based and are typically based on rich, traditional colors like gold and red. Decorative and attractive tents. We deliver our services based on our requests</p>
+             <p> Wedding decorations are mostly based on clients requests. We offer decorative and attractive tents. We deliver our services based on our requests</p>
 			</div>
 
 
