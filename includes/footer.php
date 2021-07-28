@@ -16,7 +16,7 @@
 	box-shadow: 2px 2px 3px #999;
 }
 
-img {
+.branding {
   width: 250px;
   height: 300px;
   background-color: #fff;
@@ -163,7 +163,7 @@ span.text {
                 
                 <li><a href="about_two.php" class="py-2 d-block">About Us</a></li>
               </ul> -->
-              <img src="images/branding.png">
+              <img class="branding" src="images/branding.png">
             </div>
           </div> 
 

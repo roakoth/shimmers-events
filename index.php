@@ -33,6 +33,8 @@
     background: rgba(0, 0, 0, 0.5);
   }
 
+  
+
   .fa-check {
     margin-right: 8px;
   }
@@ -330,7 +332,7 @@ include "includes/header.php";
 		              <div class="item">
 		                <div class="testimony-wrap d-flex">
 		                  <div class="user-img mb-5">
-						  <img id="founderPic" src="images/Tabitha_pic.jpeg">
+						   <img id="founderPic" src="images/Tabitha_pic.jpeg"> 
 		                    <span class="quote d-flex align-items-center justify-content-center">
                         
 		                      <i class="icon-quote-left"></i>
