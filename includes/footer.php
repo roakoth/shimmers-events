@@ -16,6 +16,12 @@
 	box-shadow: 2px 2px 3px #999;
 }
 
+img {
+  width: 250px;
+  height: 300px;
+  background-color: #fff;
+}
+
 .my-float{
 	margin-top:22px;
 }
@@ -122,17 +128,17 @@ span.text {
               </ul>
             </div>
           </div>
-          <div class="col-md">
+          <!-- <div class="col-md">
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Customer Support</h2>
               <ul class="list-unstyled">
-                <!-- <li><a href="register2.php" class="py-2 d-block">Registration</a></li> -->
+                
                 <li><a href="events2.php" class="py-2 d-block">Events</a></li>
                 
                 <li><a href="about_two.php" class="py-2 d-block">About Us</a></li>
               </ul>
             </div>
-          </div>
+          </div> -->
           <div class="col-md col-sm-12">
             <div class="ftco-footer-widget mb-4">
             	<h2 class="ftco-heading-2">Have Questions?</h2>
@@ -147,6 +153,22 @@ span.text {
 	            </div>
             </div>
           </div>
+
+           <div class="col-md">
+             <div class="ftco-footer-widget mb-4">
+              <!-- <h2 class="ftco-heading-2">Customer Support</h2> -->
+              <!-- <ul class="list-unstyled">
+                
+                <li><a href="events2.php" class="py-2 d-block">Events</a></li>
+                
+                <li><a href="about_two.php" class="py-2 d-block">About Us</a></li>
+              </ul> -->
+              <img src="images/branding.png">
+            </div>
+          </div> 
+
+
+
         </div>
         <div class="row">
           <div class="col-md-12 text-center">
