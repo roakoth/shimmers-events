@@ -38,7 +38,7 @@
   border-bottom:  #FF0000 2px solid;
   }
 
- img {
+ .aboutPic {
     height: 60vh;
     width: 40vw;
     border-radius: 50%;
@@ -134,7 +134,7 @@ include "includes/header.php";
             </div>
 
             <div id="pic" class="col-md-6 col-sm-12 heading-section ftco-animate"> 
-            <img src="images/nice_arrangement.jpeg"> 
+            <img class="aboutPic" src="images/nice_arrangement.jpeg"> 
             
             </div>
 
