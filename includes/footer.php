@@ -119,11 +119,11 @@ span.text {
             <div class="ftco-footer-widget mb-4 ml-md-5">
               <h2 class="ftco-heading-2">Events</h2>
               <ul class="list-unstyled">
-                <li><a href="events2.php" class="py-2 d-block">Wedding</a></li>
-                <li><a href="events2.php" class="py-2 d-block">Corporate</a></li>
-                <li><a href="events2.php" class="py-2 d-block">Funeral</a></li>
-                <li><a href="events2.php" class="py-2 d-block">Birthday</a></li>
-                <li><a href="events2.php" class="py-2 d-block">Baby Showers</a></li>
+                <li><a href="events.php" class="py-2 d-block">Wedding</a></li>
+                <li><a href="events.php" class="py-2 d-block">Corporate</a></li>
+                <li><a href="events.php" class="py-2 d-block">Funeral</a></li>
+                <li><a href="events.php" class="py-2 d-block">Birthday</a></li>
+                <li><a href="events.php" class="py-2 d-block">Baby Showers</a></li>
                 
               </ul>
             </div>
