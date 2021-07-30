@@ -22,8 +22,8 @@
           </ul>
           </li>       
           </li> -->
-          <li class="nav-item"><a href="events.php" class="nav-link">Events</a></li>
           <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
+          <li class="nav-item"><a href="events.php" class="nav-link">Events</a></li>
           <li class="nav-item"><a href="gallery.php" class="nav-link">Gallery</a></li>
           <!-- <li class="nav-item"><a href="#services" class="nav-link">Services</a></li> -->
           <li class="nav-item cta"><a href="register.php" class="nav-link"><span>Register</span></a></li>

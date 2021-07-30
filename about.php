@@ -60,7 +60,8 @@ h1 {
 }
   img {
     height: 40vh;
-    width: 50vw;
+    width: 45vw;
+    
     
   }
 }

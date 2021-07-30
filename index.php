@@ -356,7 +356,7 @@ include "includes/header.php";
 		                    </span> 
 		                  </div> 
 		                  <div class="text ml-md-4">
-		                    <p class="mb-5">The variation of different types of events helps us perfect skills in the industty of event planning.
+		                    <p class="mb-5">The variation of different types of events helps us perfect skills in the industry of event planning.
 							At Shimmers event we are open to challenges, and are always ready to serve the best and exceed our clients expectations.</p>
 		                    
 		                  </div> 

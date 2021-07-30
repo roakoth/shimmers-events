@@ -33,14 +33,24 @@ include "cssjs/css.php";
     background: rgba(0, 0, 0, 0.5);
   }
 
-  img {
+ 
+
+  .chat {
     width: 400px;
     height: 500px;
   }
 
-  h3, p {
+  h3 {
     text-align: center;
   }
+
+  /* h3, p {
+    text-align: center;
+  } */
+  .firstP {
+    text-align: center;
+  }
+
 
   .btn {
   margin-top: 20px;
@@ -70,7 +80,9 @@ include "cssjs/css.php";
   height: 50vh;
   background: rgba(0, 0, 0, 0.5);
 }
-img {
+
+
+.chat {
   height: 500px;
   width: 310px;
 }
@@ -101,7 +113,9 @@ h1 {
   font-size: 40px !important;
 }
 
-img {
+
+
+.chat {
   height: 500px;
   width: 280px;
 }
@@ -137,8 +151,8 @@ img {
 
         <div class="col-md-6 col-sm-12 event">
               <h3> Do you need to plan an event?</h3>
-              <p> We look forward to hearing from you</p>
-               <img src="images/begin_chat.svg"> 
+              <p class="firstP"> We look forward to hearing from you</p>
+               <img class="chat" src="images/begin_chat.svg"> 
           </div>
 
 

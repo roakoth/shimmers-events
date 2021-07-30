@@ -39,8 +39,8 @@
   border-bottom:  #FF0000 2px solid;
   }
 
-  img {
-      height: 300px;
+  .eventsPic {
+      height: 300px; 
       width: 300px;
       margin-bottom: 12px;
   } 
@@ -73,7 +73,7 @@ h1 {
 }
 
 
-img {
+.eventsPic {
   height: 300px !important;
   width: 250px !important;
 }
@@ -92,7 +92,7 @@ img {
   background: rgba(0, 0, 0, 0.5);
 } 
 
-img {
+.eventsPic {
   height: 300px;
   width: 200px !important;
 }
@@ -104,7 +104,7 @@ img {
 
 @media (max-width: 1024px){
  
-  img {
+  .eventsPic {
   height: 300px;
   width: 250px;
 }
@@ -144,7 +144,7 @@ include "includes/header.php";
     	  <div class="row mb-5 pb-3">
         <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
           	   <div class="gallery">
-                   <img class="" src="images/Tabitha_pic.jpeg" alt="Card image cap"> 
+                   <img class="eventsPic" src="images/Tabitha_pic.jpeg" alt="Card image cap"> 
                    <h5 class="">Tabitha Founder of Shimmers Event</h5>
                </div>
             </div>
@@ -153,21 +153,21 @@ include "includes/header.php";
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate" style="margin-bottom:2rem;">
           	   <div class="gallery">
-                   <img src="images/venue_two.jpeg" alt="">
+                   <img class="eventsPic" src="images/venue_two.jpeg" alt="">
                    <h5 class="">Wedding ceremony</h5>  
                </div>
             </div>
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
           	   <div class="gallery">
-                  <img src="images/venue_three.jpeg" alt="">
+                  <img class="eventsPic"  src="images/venue_three.jpeg" alt="">
                   <h5 class=""> Outdoor Event</h5>
                </div>
             </div>
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate" style="margin-bottom:2rem;">
           	   <div class="gallery">
-                   <img src="images/tabitha_client.jpeg" alt="">
+                   <img class="eventsPic" src="images/tabitha_client.jpeg" alt="">
                     <h5 class=""> Tabitha The Event Organizer</h5>
                </div>
             </div>
@@ -175,14 +175,14 @@ include "includes/header.php";
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate mb-3">
           	   <div class="gallery">
-                   <img src="images/venue_one.jpeg" alt="Card image cap">
+                   <img class="eventsPic" src="images/venue_one.jpeg" alt="Card image cap">
                    <h5 class=""> Wedding ceremony</h5>
                </div>
             </div>
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
           	   <div class="gallery">
-                   <img class="" src="images/venue_four.jpeg" alt="Card image cap"> 
+                   <img class="eventsPic" class="" src="images/venue_four.jpeg" alt="Card image cap"> 
                    <h5 class="">Evening party</h5>
                </div>
             </div>
@@ -192,14 +192,14 @@ include "includes/header.php";
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
           	   <div class="gallery">
-                  <img class="" src="images/family_bank.jpeg" alt="Card image cap"> 
+                  <img class="eventsPic" src="images/family_bank.jpeg" alt="Card image cap"> 
                    <h5 class="">Family Bank Marathon Event</h5>  
                </div>
             </div>
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
               <div class="gallery">
-                 <img class="" src="images/pexels.jpeg" alt="Card image cap"> 
+                 <img class="eventsPic" src="images/pexels.jpeg" alt="Card image cap"> 
                  <h5 class=""> Wedding Event</h5>  
               </div>
 
@@ -207,49 +207,49 @@ include "includes/header.php";
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
               <div class="gallery">
-                  <img class="" src="images/nice_arrangement.jpeg" alt="Card image cap"> 
+                  <img class="eventsPic" src="images/nice_arrangement.jpeg" alt="Card image cap"> 
                   <h5 class=""> Event</h5>
               </div>
             </div>
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
                <div class="gallery">
-                 <img class="" src="images/hero.jpeg" alt="Card image cap"> 
+                 <img class="eventsPic" src="images/hero.jpeg" alt="Card image cap"> 
                   <h5 class="">Event</h5>
                 </div>
             </div>
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
               <div class="gallery">
-                  <img class="" src="images/corporate.jpeg" alt="Card image cap"> 
+                  <img class="eventsPic" src="images/corporate.jpeg" alt="Card image cap"> 
                   <h5 class="">Corporate Events</h5>
               </div>
             </div>
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
                <div class="gallery">
-                  <img class="" src="images/catering.jpeg" alt="Card image cap"> 
+                  <img class="eventsPic" src="images/catering.jpeg" alt="Card image cap"> 
                   <h5 class="">Catering services</h5>
                 </div>
             </div>
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
           	   <div class="gallery">
-                  <img class="" src="images/cutlery.jpeg" alt="Card image cap"> 
+                  <img class="eventsPic" src="images/cutlery.jpeg" alt="Card image cap"> 
                   <h5 class="">Event</h5>
                 </div>
             </div>
             
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
                <div class="gallery">
-                  <img class="" src="images/baby_shower_2.jpeg" alt="Card image cap"> 
+                  <img class="eventsPic" src="images/baby_shower_2.jpeg" alt="Card image cap"> 
                   <h5 class="">Baby shower Event</h5>
                </div>
             </div>
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
               <div class="gallery">
-               <img class="" src="images/arrange.jpeg" alt="Card image cap"> 
+               <img class="eventsPic" src="images/arrange.jpeg" alt="Card image cap"> 
                 <h5 class=""> Event</h5>
               </div>
             </div>
@@ -257,21 +257,21 @@ include "includes/header.php";
             
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
               <div class="gallery">
-               <img class="" src="images/nice_decor.jpeg" alt="Card image cap"> 
+               <img class="eventsPic" src="images/nice_decor.jpeg" alt="Card image cap"> 
                <h5 class=""> Decorations</h5>
               </div>
             </div>
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">  
               <div class="gallery"> 
-               <img class="" src="images/tent_3.jpg" alt="Card image cap"> 
+               <img class="eventsPic" src="images/tent_3.jpg" alt="Card image cap"> 
                <h5 class=""> Tent services</h5>
               </div>
             </div>
 
             <div class="col-12 col-sm-6 col-md-6 col-lg-4 gallery-section ftco-animate">
           	   <div class="gallery">
-                  <img class="" src="images/wedding_car.jpeg" alt="Card image cap"> 
+                  <img class="eventsPic" src="images/wedding_car.jpeg" alt="Card image cap"> 
                   <h5 class="">Wedding car</h5>  
                </div>
             </div>
