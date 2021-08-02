@@ -40,14 +40,15 @@
   }
 
   .eventsPic {
-      height: 300px; 
+      height: 250px; 
       width: 300px;
       margin-bottom: 12px;
+      object-fit: contain;
   } 
 
   h5 {
       text-align: center;
-      margin-bottom: 12px;
+      /* margin-bottom: 12px; */
       
   }
 
@@ -74,8 +75,9 @@ h1 {
 
 
 .eventsPic {
-  height: 300px !important;
+  height: 200px !important;
   width: 250px !important;
+  object-fit: contain;
 }
 
 
@@ -93,8 +95,9 @@ h1 {
 } 
 
 .eventsPic {
-  height: 300px;
+  height: 200px;
   width: 200px !important;
+  object-fit: contain;
 }
 
 
@@ -107,6 +110,7 @@ h1 {
   .eventsPic {
   height: 300px;
   width: 250px;
+  object-fit: contain;
 }
 
 }
