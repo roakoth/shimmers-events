@@ -325,7 +325,7 @@ include "includes/header.php";
 					<div class="col-md-1"></div>
           <div class="col-md-6 heading-section ftco-animate">
           	<span class="subheading">Message from Event Organizer</span>
-            <h2 class="mb-4 pb-3"><strong>Founder of Shimmers Event Organizers</strong> </h2>
+            <h2 class="mb-4 pb-3"><strong>Founder of Shimmers Events Organizers</strong> </h2>
           	<div class="row ftco-animate">
 		          <div class="col-md-12">
 		            <div class="carousel-testimony owl-carousel">
@@ -339,7 +339,7 @@ include "includes/header.php";
 		                    </span>
 		                  </div>
 		                  <div class="text ml-md-4">
-		                    <p class="mb-5">Tabitha is the founder of Shimmers organizer, dedicated and offers support to esteemed clients to ensure seamless experience during events.
+		                    <p class="mb-5">Tabitha is the founder of Shimmers Events, dedicated and offers support to esteemed clients to ensure seamless experience during events.
 							
 							
 							</p>

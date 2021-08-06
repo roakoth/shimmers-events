@@ -109,7 +109,7 @@ include "includes/header.php";
             <!-- <span class="quote d-flex align-items-center justify-content-center">
                 <i class="icon-quote-left"></i>
 		        </span> -->
-             <p>  <i class="icon-quote-left"></i> Shimmers Event Organizers is an Events company based in Eldoret town. It started back in 2014 when I was working as an intern in some NGO within. </p>
+             <p>  <i class="icon-quote-left"></i> Shimmers Events Organizers is an Events company based in Eldoret town. It started back in 2014 when I was working as an intern in some NGO within. </p>
                 <!-- <br /> -->
                 <p> We had many outdoor activities which needed services with tent, sound and truck for roadshows. I saw there was a gap with the service providers we dealt with in terms of communication, customer care and we never got a one shop stop.  </p>
                 <!-- <br /> -->
@@ -119,7 +119,7 @@ include "includes/header.php";
                 <!-- <br /> -->
                 <p>On social events, we have majored in dowry payment events(Koitos), weddings, birthday, bridal parties and funerals. We provide party rentals i.e. tents, seats, tables and mobile toilets. </p>
                 <!-- <br /> -->
-                <p>We also partner with other credible companies to offer a one stop shop for all services needed in an events that includes Sound system, catering services, makke-up artists, photographers and MC. </p>
+                <p>We also partner with other credible companies to offer a one stop shop for all services needed in an events that includes Sound system, catering services, make-up artists, photographers and MC. </p>
                 <!-- <br /> -->
                 <p>We majorly depend on referrals as we believe in delivering personalized services and customizing on clients needs. Previously I could post but these does not sell as opposed to the referrals where one has experienced our services. <i class="icon-quote-right"></i> </p>
                 <!-- <p>We are classified as "ONE STOP SOLUTION".  </p>

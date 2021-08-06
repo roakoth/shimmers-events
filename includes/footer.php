@@ -90,12 +90,12 @@ span.text {
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Shimmers Event Organizers </h2>
-              <p>Shimmers Event Organizers provide seamless event experience to their esteemed clients </p>
+              <h2 class="ftco-heading-2">Shimmers Events Organizers </h2>
+              <p>Shimmers Events Organizers provide seamless event experience to their esteemed clients </p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                <li class="ftco-animate"><a href="https://www.youtube.com/"><span class="icon-youtube"></span></a></li>
+                <!-- <li class="ftco-animate"><a href="https://www.youtube.com/"><span class="icon-youtube"></span></a></li> -->
                 <li class="ftco-animate"><a href="https://www.facebook.com/"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
+                <!-- <li class="ftco-animate"><a href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li> -->
               </ul>
             </div>
           </div>
